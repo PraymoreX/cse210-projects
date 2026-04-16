@@ -6,7 +6,7 @@ class Program
 {
     static GoalManager manager = new GoalManager();
 
-    static void Main()
+    static void Main(string[] args)
     {
         bool running = true;
 
